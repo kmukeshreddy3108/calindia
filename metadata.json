@@ -1,0 +1,6 @@
+{
+  "name": "FinCalc India",
+  "description": "High-fidelity financial calculators custom-built for Indian users. Easily calculate EMI, SIP, FD, GST, and Compound Interest with instant charts, amortization schedules, and PDF exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
